@@ -164,7 +164,7 @@ sections:
           width: full
           type: TextFormControl
         - name: updatesConsent
-          label: 'Marque para receber atualizações '
+          label: 'Marque aqui para receber atualizações '
           isRequired: false
           width: full
           type: CheckboxFormControl
