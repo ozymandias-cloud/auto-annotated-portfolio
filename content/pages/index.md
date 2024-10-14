@@ -161,7 +161,7 @@ sections:
           hideLabel: true
           placeholder: Deixe uma mensagem...
           isRequired: true
-          width: 1/2
+          width: full
           type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
