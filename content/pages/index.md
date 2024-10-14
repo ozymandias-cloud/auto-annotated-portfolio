@@ -159,7 +159,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: Deixe uma mensagem...
           isRequired: true
           width: 1/2
           type: TextFormControl
