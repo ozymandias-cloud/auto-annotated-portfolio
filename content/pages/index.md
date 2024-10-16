@@ -151,7 +151,7 @@ sections:
           label: Message
           hideLabel: true
           placeholder: Deixe uma mensagem...
-          isRequired: true
+          isRequired: false
           width: full
           type: TextFormControl
         - name: updatesConsent
