@@ -10,47 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: 'Sou desenvolvedor, artista digital e consultor.'
-    subtitle: >-
-      Estou compartilhando com todos o trabalho duro que fiz nos últimos anos.
-      Você poderá continuar rolando para baixo para ver mais detalhes sobre mim
-      e minha trajetória profissional.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/1000034655.webp
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
