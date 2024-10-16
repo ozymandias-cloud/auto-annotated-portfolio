@@ -140,13 +140,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: lastName
-          label: Sobrenome
-          hideLabel: true
-          placeholder: Sobrenome
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
