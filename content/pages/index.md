@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Sou desenvolvedor, artista digital, consultor e vários outros títulos
-      impressionantes.
+    title: 'Sou desenvolvedor, artista digital, consultor.'
     subtitle: >-
       Estou compartilhando tudo isso com vocês para impressioná-los com todo o
       trabalho duro que fiz nos últimos anos. Quando estiver impressionado, você
