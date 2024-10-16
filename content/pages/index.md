@@ -147,7 +147,7 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: a
+        - name: Message
           label: Address
           hideLabel: true
           placeholder: Deixe uma mensagem...
