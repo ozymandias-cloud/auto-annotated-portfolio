@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Sou desenvolvedor, artista digital, consultor.'
+    title: 'Sou desenvolvedor, artista digital e consultor.'
     subtitle: >-
       Estou compartilhando com todos o trabalho duro que fiz nos últimos anos.
       Você poderá continuar rolando para baixo para ver mais detalhes sobre mim
