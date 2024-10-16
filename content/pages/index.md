@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: 'Sou desenvolvedor, artista digital, consultor.'
     subtitle: >-
-      Estou compartilhando tudo isso com vocês para impressioná-los com todo o
-      trabalho duro que fiz nos últimos anos. Quando estiver impressionado, você
-      poderá continuar rolando para baixo para ver mais detalhes sobre mim.
+      Estou compartilhando com todo o trabalho duro que fiz nos últimos anos.
+      Quando estiver impressionado, você poderá continuar rolando para baixo
+      para ver mais detalhes sobre mim.
     styles:
       self:
         height: auto
