@@ -16,8 +16,8 @@ sections:
     title: 'Sou desenvolvedor, artista digital, consultor.'
     subtitle: >-
       Estou compartilhando com todos o trabalho duro que fiz nos últimos anos.
-      Quando estiver impressivocê poderá continuar rolando para baixo para ver
-      mais detalhes sobre mim.
+      Quavocê poderá continuar rolando para baixo para ver mais detalhes sobre
+      mim.
     styles:
       self:
         height: auto
