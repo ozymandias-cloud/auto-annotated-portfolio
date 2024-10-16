@@ -47,7 +47,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/1000031038.jpg
+      url: /images/1000034649.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
